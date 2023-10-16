@@ -1,7 +1,7 @@
 # LT_Mort
 Libretranslate but with post and response changed to work with MORT.
 
-## Instalation
+## Installation
 Just replace the app.py file in the directory where libretranslate is installed.
 
 e.g. ...\AppData\Local\Programs\Python\Python310\Lib\site-packages\libretranslate
